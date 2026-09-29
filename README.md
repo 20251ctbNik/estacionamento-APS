@@ -1,20 +1,20 @@
-# Nome do Sistema: o que ele faz, em uma frase
+# Nome do Sistema: EstacionaFacil
 
 > **Antes de tudo.** Este é o modelo do Projeto Integrador de Análise e Projeto de Sistemas. Se você está lendo isto no seu próprio repositório, deu certo. Troque o título acima pelo nome do seu sistema e por uma frase que diga o que ele faz, preencha a autoria e o cliente e apague este aviso.
 
 Projeto Integrador de Análise e Projeto de Sistemas, 2026.
 IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao Ensino Médio.
 
-**Autoria:** _seu nome, como aparece no AVA_
+**Autoria:** _NICKOLAS KINCESKI MARTINS_
 
-**Cliente:** _o papel do cliente e a relação dele com você, no máximo com o primeiro nome. Por exemplo, "Dona Rosa, minha avó, que faz marmita por encomenda"._
+**Cliente:** _Sr. Carlos, dono do estacionamento._
 
 ## Apresentação do projeto
 
 <!-- Três a cinco frases para quem nunca ouviu falar do seu sistema. Qual é o problema, para quem, e o que o sistema faz a respeito.
      Escreva depois de terminar a 4.1. É um resumo dela, com as suas palavras. -->
 
-_Escreva aqui a apresentação do projeto._
+_O EstacionaFacil é um sistema de controle de entrada, saída e vagas para estacionamentos. Ele nasce da rotina do Seu Carlos, dono de um estacionamento, que hoje anota placas e horários num papel e calcula o valor a pagar de cabeça na saída — o que já causou erros de cobrança e perda de ticket. Com o sistema, cada entrada é registrada com placa, vaga e horário, e o valor da saída é calculado automaticamente pela regra de cobrança. Além disso, o operador consegue ver em tempo real quantas vagas estão livres e buscar um veículo pela placa, e o gerente acompanha o histórico de movimentações com o total arrecadado._
 
 ## Documento do projeto
 
@@ -37,7 +37,7 @@ A numeração é a do modelo de trabalho do IFPR, a mesma dos trabalhos de Proje
 
 ## Tecnologias
 
-> 🔒 Preenchida na Aula 30, junto com a seção 3.2. Aqui entra um resumo das ferramentas com que o sistema seria construído.
+> 🔒 Preenchida na Aula 30, jumo das ferramentas cunto com a seção 3.2. Aqui entra um resom que o sistema seria construído.
 
 ## Demonstração
 
